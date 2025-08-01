@@ -94,8 +94,8 @@ en: &DEFAULT_EN
 
   team:
     title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    text: "Meet the team"
+    subtext: At AbnersGarage, our team brings together passion, precision, and years of hands-on experience. Every member plays a key role in delivering high-quality automotive customization that reflects our shared **love** for cars.
     section: team
     people:
       - name: "Hugo Solis"
