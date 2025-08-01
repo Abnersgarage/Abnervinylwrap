@@ -71,9 +71,11 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "our story"
-    body: "Hi, I’m Abner Solis — founder of AbnersGarage and a lifelong car enthusiast. My journey with cars started in my dad Hugo’s garage, where we built our first car together. That experience sparked a passion that’s only grown stronger over the years. I studied chemistry at UC Davis, where I learned to think critically and work with precision — skills that now fuel my approach to automotive customization. From rebuilding engines to body-swapping a Mercedes AMG, I’ve always been drawn to the challenge of transforming vehicles into something unique. What started as a hobby evolved into a business when I discovered vinyl wrapping. I was hooked by the creativity and craftsmanship it demanded. Today, AbnersGarage is where I bring that passion to life — offering high-quality vinyl wraps, lighting upgrades, and custom installations for car lovers who want to stand out"
-    section: about
+    body: "Hi, I’m Abner Solis — founder of AbnersGarage and a lifelong car enthusiast. My journey with cars started in my dad Hugo’s garage, where we built our first car together. That experience sparked a passion that’s only grown stronger over the years.
 
+I studied chemistry at UC Davis, where I learned to think critically and work with precision — skills that now fuel my approach to automotive customization. From rebuilding engines to body-swapping a Mercedes AMG, I’ve always been drawn to the challenge of transforming vehicles into something unique.
+
+What started as a hobby evolved into a business when I discovered vinyl wrapping. I was hooked by the creativity and craftsmanship it demanded. Today, AbnersGarage is where I bring that passion to life — offering high-quality vinyl wraps, lighting upgrades, and custom installations for car lovers who want to stand out."
   clients:
     section: clients
     max-height: 100px
