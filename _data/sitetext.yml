@@ -25,7 +25,7 @@ en: &DEFAULT_EN
         desc: "Transform your vehicle with high-quality vinyl wraps that combine style, protection, and durability. At AbnersGarage, we specialize in custom designs, color changes, and finish options that make your ride stand out. Whether you're looking for a sleek matte look, a bold gloss finish, or a unique texture, we've got you covered."
         icon: fas fa-car
       - title: "Automotive Customization"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Upgrade your vehicle with precision and style, Aftermarket Part Installation, Performance & Aesthetic Enhancements, From lighting upgrades to aftermarket installations, we bring your vision to life with quality parts and skilled craftsmanship"
         icon: fas fa-laptop
       - title: "[Youtube](https://www.youtube.com/user/NapaStunts/videos)"
         desc: "Get a behind-the-scenes look at our vinyl wrap transformations, tips on car care, and time-lapse videos of our latest projects."
@@ -33,7 +33,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Explore our recent work and see the transformations we’ve delivered. From full vinyl wraps to lighting upgrades and custom installs, every project reflects our attention to detail and passion for cars."
     section: portfolio
     closebutton: "Close Project"
 
@@ -71,7 +71,11 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "Hi, I’m Abner Solis — founder of AbnersGarage and a lifelong car enthusiast. My journey with cars started in my dad Hugo’s garage, where we built our first car together. That experience sparked a passion that’s only grown stronger over the years.
+
+I studied chemistry at UC Davis, where I learned to think critically and work with precision — skills that now fuel my approach to automotive customization. From rebuilding engines to body-swapping a Mercedes AMG, I’ve always been drawn to the challenge of transforming vehicles into something unique.
+
+What started as a hobby evolved into a business when I discovered vinyl wrapping. I was hooked by the creativity and craftsmanship it demanded. Today, AbnersGarage is where I bring that passion to life — offering high-quality vinyl wraps, lighting upgrades, and custom installations for car lovers who want to stand out"
     section: about
 
   clients:
