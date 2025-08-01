@@ -1,62 +1,75 @@
 en:
   header:
-    title: "Welcome to Abner's Garage"
-    text: "It's Nice To Meet You"
-    button: "Tell Me More"
-    buttonlink: "#services"
-
+    title: Welcome to our Shop!
+    text: It's Nice To Meet You
+    button: Tell Me More
+    buttonlink: '#services'
   services:
-    title: "Services"
-    text: "Here to help!"
+    title: Services
+    text: Here to help!
     section: services
     list:
-      - title: "Vinyl Wrap"
-        desc: "Full Car wraps, Chrome delete, Partial wraps and more"
-        icon: "fas fa-car"
-      - title: "Automotive Customization"
-        desc: "Upgrade your vehicle with precision and style. Aftermarket Part Installation, Performance & Aesthetic Enhancements. From lighting upgrades to aftermarket installations, we bring your vision to life with quality parts and skilled craftsmanship."
-        icon: "fas fa-tools"
-      - title: "YouTube Channel"
-        desc: "Get a behind-the-scenes look at our vinyl wrap transformations, tips on car care, and time-lapse videos of our latest projects."
-        icon: "fab fa-youtube"
-
+    - title: Vinyl Wrap
+      desc: Full Car wraps, Chrome delete, Partial wraps and more
+      icon: fas fa-car
+    - title: Automotive Customization
+      desc: Upgrade your vehicle with precision and style, Aftermarket Part Installation,
+        Performance & Aesthetic Enhancements, From lighting upgrades to aftermarket
+        installations, we bring your vision to life with quality parts and skilled
+        craftsmanship
+      icon: fas fa-laptop
+    - title: YouTube
+      desc: Get a behind-the-scenes look at our vinyl wrap transformations, tips on
+        car care, and time-lapse videos of our latest projects.
+      icon: fab fa-youtube
   portfolio:
-    title: "Portfolio"
-    text: "Explore our recent work and see the transformations we’ve delivered. From full vinyl wraps to lighting upgrades and custom installs, every project reflects our attention to detail and passion for cars."
+    title: Portfolio
+    text: "Explore our recent work and see the transformations we\u2019ve delivered.\
+      \ From full vinyl wraps to lighting upgrades and custom installs, every project\
+      \ reflects our attention to detail and passion for cars."
     section: portfolio
-    closebutton: "Close Project"
-
+    closebutton: Close Project
   timeline:
-    title: "Timeline"
-    text: "AbnersGarage"
+    title: Timeline
+    text: AbnersGarage
     section: timeline
     list:
-      - title: "First Project Car"
-        year: "2017-2020"
-        desc: "My Automotive Career began with my first car, a 1990 Toyota Pickup. I learned the basics of car maintenance and customization."
-        image: "assets/img/timeline/1.jpg"
-        alt: "Restored Toyota Pickup"
-      - title: "Chassis Swap is Born"
-        year: "March 2021"
-        desc: "The start of the world's first Chassis swap Mercedes-Benz AMG project. A bold step into advanced automotive engineering."
-        image: "assets/img/portfolio/carlogo.png"
-        alt: "Chassis swap Mercedes-Benz"
-      - title: "AbnersGarage Founded"
-        year: "2022"
-        desc: "AbnersGarage was officially launched, offering vinyl wraps, lighting upgrades, and custom automotive services."
-        image: "assets/img/timeline/3.jpg"
-        alt: "AbnersGarage Launch"
-      - title: "Today"
-        year: "2023"
-        desc: "Continuing to grow and innovate in the automotive customization space, with a focus on quality and customer satisfaction."
-        image: "assets/img/timeline/4.jpg"
-        alt: "Current Projects"
-
+    - title: First Project Car
+      year: 2017-2020
+      desc: My Automotive Career began with my first car, a 1982 Toyota Pickup. I
+        restored it with my dad Hugo and learned the fundamentals of car building.
+      image: assets/img/timeline/1.jpg
+      alt: Restored Toyota Pickup
+    - title: Chassis swap is born
+      year: March 2021
+      desc: The start of the world's first Chassis swap Mercedes-Benz AMG. I began
+        documenting the process and sharing it online.
+      image: assets/img/portfolio/carlogo.png
+      alt: Chassis swap Mercedes-Benz
+    - title: AbnersGarage is founded
+      year: '2022'
+      desc: After graduating from UC Davis with a degree in Chemistry, I decided to
+        pursue my passion full-time and founded AbnersGarage.
+      image: assets/img/timeline/3.jpg
+      alt: AbnersGarage founded
+    - title: Vinyl Wrap Services Launch
+      year: '2023'
+      desc: We launched our vinyl wrap services and began offering full car wraps,
+        chrome deletes, and custom installations.
+      image: assets/img/timeline/4.jpg
+      alt: Vinyl wrap services
   about:
-    title: "About Us"
-    text: "Driven by passion, powered by precision."
-    body: "AbnersGarage is dedicated to transforming vehicles through high-quality vinyl wraps, lighting upgrades, and custom installations. Our mission is to deliver exceptional craftsmanship and personalized service to every customer."
-
+    title: About
+    text: AbnersGarage is the result of years of passion, learning, and dedication
+      to automotive craftsmanship. From humble beginnings restoring a Toyota Pickup
+      to launching a full-service customization shop, our journey is driven by a love
+      for cars and a commitment to quality.
+    section: about
   clients:
-    title: "Our Partners"
-    text: "We proudly collaborate with industry leaders and local businesses to bring the best to our clients."
+    title: Our Partners
+    section: clients
+    list:
+    - logo: assets/img/logos/envato.jpg
+      link: https://www.3m.com
+    - logo: assets/img/logos/designmodo.jpg
+      link: https://designmodo.com
