@@ -11,25 +11,25 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
+    title: Welcome to our Shop!
     text: It's Nice To Meet You
     button: Tell Me More
     buttonlink: "#services"
 
   services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "Here to help!"
     section: services
     list:
-      - title: "E-Commerce"
+      - title: "Vinyl Wrap"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
+      - title: "Automotive Customization"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "[Youtube](https://www.youtube.com/user/NapaStunts/videos)"
+        desc: "Get a behind-the-scenes look at our vinyl wrap transformations, tips on car care, and time-lapse videos of our latest projects."
+        icon: "fab fa-youtube"
 
   portfolio:
     title: "Portfolio"
