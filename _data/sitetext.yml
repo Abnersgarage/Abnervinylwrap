@@ -1,6 +1,6 @@
 en:
   header:
-    title: Welcome to our Shop!
+    title: Welcome to Abner's Garage
     text: It's Nice To Meet You
     button: Tell Me More
     buttonlink: '#services'
@@ -13,12 +13,12 @@ en:
       desc: Full Car wraps, Chrome delete, Partial wraps and more
       icon: fas fa-car
     - title: Automotive Customization
-      desc: Upgrade your vehicle with precision and style, Aftermarket Part Installation,
-        Performance & Aesthetic Enhancements, From lighting upgrades to aftermarket
+      desc: Upgrade your vehicle with precision and style. Aftermarket Part Installation,
+        Performance & Aesthetic Enhancements. From lighting upgrades to aftermarket
         installations, we bring your vision to life with quality parts and skilled
-        craftsmanship
-      icon: fas fa-laptop
-    - title: YouTube
+        craftsmanship.
+      icon: fas fa-tools
+    - title: YouTube Channel
       desc: Get a behind-the-scenes look at our vinyl wrap transformations, tips on
         car care, and time-lapse videos of our latest projects.
       icon: fab fa-youtube
@@ -33,43 +33,47 @@ en:
     title: Timeline
     text: AbnersGarage
     section: timeline
-    list:
+    events:
     - title: First Project Car
       year: 2017-2020
       desc: My Automotive Career began with my first car, a 1982 Toyota Pickup. I
-        restored it with my dad Hugo and learned the fundamentals of car building.
+        restored it with my dad Hugo and learned the basics of mechanics and customization.
       image: assets/img/timeline/1.jpg
       alt: Restored Toyota Pickup
-    - title: Chassis swap is born
+    - title: Chassis Swap is Born
       year: March 2021
-      desc: The start of the world's first Chassis swap Mercedes-Benz AMG. I began
-        documenting the process and sharing it online.
+      desc: The start of the world's first Chassis swap Mercedes-Benz AMG. This project
+        combined creativity, engineering, and a passion for performance.
       image: assets/img/portfolio/carlogo.png
       alt: Chassis swap Mercedes-Benz
-    - title: AbnersGarage is founded
+    - title: AbnersGarage Launch
       year: '2022'
-      desc: After graduating from UC Davis with a degree in Chemistry, I decided to
-        pursue my passion full-time and founded AbnersGarage.
+      desc: Founded AbnersGarage to bring high-quality vinyl wraps and automotive
+        customization to the community.
       image: assets/img/timeline/3.jpg
-      alt: AbnersGarage founded
-    - title: Vinyl Wrap Services Launch
-      year: '2023'
-      desc: We launched our vinyl wrap services and began offering full car wraps,
-        chrome deletes, and custom installations.
+      alt: AbnersGarage Launch
+    - title: Our Mission
+      year: Today
+      desc: To deliver top-tier automotive customization with a focus on craftsmanship,
+        creativity, and customer satisfaction.
       image: assets/img/timeline/4.jpg
-      alt: Vinyl wrap services
+      alt: Our Mission
   about:
     title: About
-    text: AbnersGarage is the result of years of passion, learning, and dedication
-      to automotive craftsmanship. From humble beginnings restoring a Toyota Pickup
-      to launching a full-service customization shop, our journey is driven by a love
-      for cars and a commitment to quality.
+    text: From a passion project to a full-service garage, AbnersGarage is built on
+      dedication, creativity, and a love for cars.
+    body: My name is Abner and I started my automotive journey with a 1982 Toyota
+      Pickup. I restored it with my dad Hugo and learned the fundamentals of mechanics
+      and customization. After studying chemistry at UC Davis, I decided to pursue
+      my passion full-time and founded AbnersGarage. We specialize in vinyl wraps,
+      lighting upgrades, and performance modifications. Our goal is to bring your
+      vision to life with quality parts and skilled craftsmanship.
     section: about
   clients:
     title: Our Partners
     section: clients
     list:
-    - logo: assets/img/logos/envato.jpg
+    - logo: assets/img/clients/3m.png
       link: https://www.3m.com
-    - logo: assets/img/logos/designmodo.jpg
+    - logo: assets/img/clients/designmodo.png
       link: https://designmodo.com
