@@ -52,7 +52,7 @@ en: &DEFAULT_EN
       - title: "Chassis swap is born"
         year: "March 2021"
         desc: "The start of the worlds first Chassis swap Mercedes-Benz AMG, using the beautiful lines and curves of a R107 and the Heart and drive of an AMG R171"
-        image: 
+        image: assets/img/timelime/carlogo.png
         alt:
       - title: "Jekyll Theme is created"
         year: "2019"
