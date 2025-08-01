@@ -133,7 +133,10 @@ What started as a hobby evolved into a business when I discovered vinyl wrapping
 
   contact:
     title: "Contact Us"
-    text: "Call Or Text for a free qoute 707-624-0045"
+    text: .yellow-text {
+  color: yellow;
+}
+"Call Or Text for a free qoute 707-624-0045"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
