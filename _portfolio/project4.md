@@ -5,14 +5,13 @@ image: assets/img/portfolio/04-full.jpg
 alt: 
 
 caption:
-  title: Lines
-  subtitle: Branding
+  title: Honda
+  subtitle: Full Vinyl wrap/ aftermarket upgrades
   thumbnail: assets/img/portfolio/04-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+This 2017 honda sport came in with a lot of faded paint and scratches. Was wet sanded and went with a color shift Green/Black full wrap. The headlights and tailights were also switched with aftermarket replacements. 
 
 {:.list-inline}
-- Date: October 2019
-- Client: Lines
-- Category: Branding
-
+- Date: May 2025
+- Client: Emmanuel 
+- Category:Full wrap/ Headlight & talight restoration
