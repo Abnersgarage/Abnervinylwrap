@@ -81,9 +81,9 @@ What started as a hobby evolved into a business when I discovered vinyl wrapping
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
+      - title: "3m"
+        url: 
+        logo: assets/img/clients/3m.jpg
       - title: "designmodo"
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/designmodo.jpg
