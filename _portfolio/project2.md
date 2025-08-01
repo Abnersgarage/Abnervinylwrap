@@ -9,10 +9,9 @@ caption:
   subtitle: Full British Racing Green
   thumbnail: assets/img/portfolio/02-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
-
+This car had a lot of body damage, it was repaired using Paintless Dent removal. The car was wrapped in Vinyl Frogs british racing green. A starlight headliner was also installed
 {:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+- Date: February 2025
+- Client: Richard
+- Category: Full wrap/ custom headliner
 
