@@ -22,7 +22,7 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Vinyl Wrap"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Transform your vehicle with high-quality vinyl wraps that combine style, protection, and durability. At AbnersGarage, we specialize in custom designs, color changes, and finish options that make your ride stand out. Whether you're looking for a sleek matte look, a bold gloss finish, or a unique texture, we've got you covered."
         icon: fas fa-car
       - title: "Automotive Customization"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
