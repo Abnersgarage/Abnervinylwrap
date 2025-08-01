@@ -48,22 +48,22 @@ en: &DEFAULT_EN
         year: "2017-2020"
         desc: "My Automotive Career began with my first car, 1982 Toyota Pickup Truck with a 22R engine. Fully Restored, new upholstery and custom paintjob."
         image: assets/img/timeline/1.jpg
-        alt: "restored"
+       
       - title: "Chassis swap is born"
         year: "March 2021"
         desc: "The start of the worlds first Chassis swap Mercedes-Benz AMG, using the beautiful lines and curves of a R107 and the Heart and drive of an AMG R171"
         image: assets/img/portfolio/carlogo.png
-        alt: "restored"
+     
       - title: "Jekyll Theme is created"
         year: "2019"
         desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
         image: assets/img/timeline/3.jpg
-        alt: image alt text
+      
       - title: "Title"
         year: "2009-2011"
         desc: "Your description here, **Markdown** is fully supported."
         image: assets/img/timeline/4.jpg
-        alt: "resoted
+     
         # you can enforce the alignment
         align: right
     end: "Be Part <br> of Our <br> Story!"
@@ -82,8 +82,7 @@ What started as a hobby evolved into a business when I discovered vinyl wrapping
     horizontal-scrolling: "" #"yes/no"
     list:
       - title: "3m"
-        url: 
-        logo: assets/img/clients/3m.jpg
+              logo: assets/img/clients/3m.jpg
       - title: "designmodo"
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/designmodo.jpg
@@ -103,7 +102,7 @@ What started as a hobby evolved into a business when I discovered vinyl wrapping
       - name: "Hugo Solis"
         role: "Lead Specialist, Co-Founder"
         image: assets/img/team/500x500.jpg
-        social:
+       
           - url: https://twitter.com
             icon: fab fa-twitter
           - url: https://facebook.com
@@ -113,7 +112,7 @@ What started as a hobby evolved into a business when I discovered vinyl wrapping
       - name: "Abner Solis"
         role: "CEO, Founder"
         image: assets/img/team/abner.jpg
-        social:
+      
           - url: https://twitter.com
             icon: fab fa-twitter
           - url: https://facebook.com
@@ -123,7 +122,7 @@ What started as a hobby evolved into a business when I discovered vinyl wrapping
       - name: "Noe Cigarroa "
         role: "Vinyl Technician"
         image: assets/img/team/500x500.jpg
-        social:
+      
           - url: https://twitter.com
             icon: fab fa-twitter
           - url: https://facebook.com
@@ -133,10 +132,7 @@ What started as a hobby evolved into a business when I discovered vinyl wrapping
 
   contact:
     title: "Contact Us"
-    text: .yellow-text {
-  color: yellow;
-}
-"Call Or Text for a free qoute 707-624-0045"
+    text: "Call Or Text for a free qoute 707-624-0045"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
